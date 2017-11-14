@@ -1,0 +1,39 @@
+
+
+.sourceserif {
+  font-family: 'Source Serif Pro', serif;
+}
+
+.worksans {
+  font-family: 'Work Sans', sans-serif;
+}
+
+a {
+  color: black;
+}
+
+.bg-almost-white {
+  background-color: rgb(247,247,247);
+}
+
+.shadow {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, .15);
+}
+
+html {
+  background-color: rgb(247,247,247);
+}
+
+.zindex {
+  z-index: 999;
+}
+
+.fullest-container {
+    position:relative;
+    width:100%;
+    max-width:100%;
+    margin:0 auto;
+    padding:10px 0;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+}
